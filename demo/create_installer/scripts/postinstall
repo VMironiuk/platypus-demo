@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Running postinstall" > /tmp/my_postinstall.log
+curl https://www.google.com/ -o ~/Desktop/googlefile
+exit 0

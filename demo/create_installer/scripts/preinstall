@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Running preinstall" > /tmp/my_preinstall.log
+exit 0
